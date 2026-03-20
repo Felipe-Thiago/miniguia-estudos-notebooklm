@@ -6,15 +6,15 @@ A ideia deste miniguia é entender melhor sobre os eventos de "Capture a Bandeir
 
 ## Separação de fontes
 
-- [!Implementation and Trial Practices for Hacking Competition CTF
+- [Implementation and Trial Practices for Hacking Competition CTF
 as Introductory Educational Experience
 for Information Literacy and Security Learning](https://www.researchgate.net/profile/Natalie-Walker-15/publication/310753834_Proceedings_of_the_Fifth_International_Conference_on_Informatics_and_Applications_Takamatsu-Japan_2016/links/5835e29608ae74bb3aa25cff/Proceedings-of-the-Fifth-International-Conference-on-Informatics-and-Applications-Takamatsu-Japan-2016.pdf#page=59) 
 
-- [!What is CTF? An introduction to security Capture The Flag competitions](https://www.youtube.com/watch?v=8ev9ZX9J45A)
+- [What is CTF? An introduction to security Capture The Flag competitions](https://www.youtube.com/watch?v=8ev9ZX9J45A)
 
-- [!What is CTF - Hack The Box](https://www.hackthebox.com/blog/what-is-ctf)
+- [What is CTF - Hack The Box](https://www.hackthebox.com/blog/what-is-ctf)
 
-- [!The CTF Primer](https://primer.picoctf.org/)
+- [The CTF Primer](https://primer.picoctf.org/)
 
 
 ## Testes de prompts
@@ -62,7 +62,7 @@ Para explorar mais sobre o assunto, foi realizada uma série de perguntas em que
 
 ## Miniguia de Estudo
 ### Mapa mental 
-![Mapa mental gerado pelo NotebookLM]()
+![Mapa mental gerado pelo NotebookLM](https://raw.githubusercontent.com/Felipe-Thiago/miniguia-estudos-notebooklm/refs/heads/main/NotebookLM%20Mind%20Map.png)
 
 ### Glossário
 - Formatos de competição: Jeopardy-style, Attack-Defense, King of the Hill, Wargames;
