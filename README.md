@@ -2,7 +2,7 @@
 Entrega do desafio para o estudo da ferramenta "NotebookLM", realizado durante o bootcamp de Cibersegurança Riachuelo na plataforma DIO 
 
 ## Contexto e Objetivos
-A ideia deste miniguia é entender melhor sobre os eventos de "Capture a Bandeira" (CTF) realizados por entusiastas do hacktivismo como forma de preparo para o entendimento da variedade de ferramentas utilizadas pelos praticantes do hacking ético, assim como obter uma introdução ao tema de forma amigável e lúdica.
+A ideia deste miniguia é entender melhor sobre os eventos de "Capture a Bandeira" (CTF) realizados por entusiastas da cibersegurança como forma de preparo para o entendimento da variedade de ferramentas utilizadas pelos praticantes do hacking ético, assim como obter uma introdução ao tema de forma amigável e lúdica.
 
 ## Separação de fontes
 
